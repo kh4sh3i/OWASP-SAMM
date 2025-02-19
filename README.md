@@ -30,7 +30,7 @@ the "categories" are actually the five Business Functions that you listed:
 Each of these Business Functions then contains several Security Practices, which are further broken down into Activities.
 
 
-## install SAM
+## install SAMM
 ### free: sammwise
 ```
 https://github.com/owaspsamm/sammwise
