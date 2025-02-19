@@ -31,10 +31,22 @@ Each of these Business Functions then contains several Security Practices, which
 
 
 ## install SAM
-### free with git repo
+### free: sammwise
+```
+https://github.com/owaspsamm/sammwise
+docker pull stephenmorgan/owasp-sammwise
+docker run -p 3000:3000 stephenmorgan/owasp-sammwise
 
-### use sammy codific
+http://localhost:3000/
+```
+  <img src="/img/1.png" alt="" width="500px;">
+    <img src="/img/2.png" alt="" width="500px;">
 
+
+### pay: sammy codific
+https://sammy.codific.com/
+
+<img src="/img/3.png" alt="" width="500px;">
 
 
 ### Tips:
