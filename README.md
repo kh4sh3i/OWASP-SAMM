@@ -14,7 +14,7 @@
 OWASP SAMM (Software Assurance Maturity Model) is an open framework designed to assist organizations in analyzing and enhancing their software security posture15. It provides a measurable and effective approach for organizations to implement software security strategies that are tailored to their specific needs35.
 
 
-## # OWASP SAMM categories
+## OWASP SAMM categories
 the "categories" are actually the five Business Functions that you listed:
 
 * Governance: Focuses on strategy, metrics, and compliance.
