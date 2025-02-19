@@ -30,12 +30,18 @@ the "categories" are actually the five Business Functions that you listed:
 Each of these Business Functions then contains several Security Practices, which are further broken down into Activities.
 
 
+## install SAM
+### free with git repo
+
+### use sammy codific
 
 
 
+### Tips:
 * we can access to new repo of owasp samm from [this](https://github.com/owaspsamm)
-
 * core module with doqument is [here](https://github.com/owaspsamm/core)
+
+
 
 ## refrences 
 * [owaspsamm github](https://github.com/owaspsamm)
