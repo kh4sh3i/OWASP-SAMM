@@ -39,14 +39,14 @@ docker run -p 3000:3000 stephenmorgan/owasp-sammwise
 
 http://localhost:3000/
 ```
-  <img src="/img/1.png" alt="" width="500px;">
-    <img src="/img/2.png" alt="" width="500px;">
+  <img src="/img/1.png" alt="" width="100%;">
+    <img src="/img/2.png" alt="" width="100%;">
 
 
 ### pay: sammy codific
 https://sammy.codific.com/
 
-<img src="/img/3.png" alt="" width="500px;">
+<img src="/img/3.png" alt="" width="100%;">
 
 
 ### Tips:
